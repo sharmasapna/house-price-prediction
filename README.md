@@ -208,4 +208,4 @@ datasets.to_csv('housepricetuned.csv',index=False)
 #### Got an RMSE score of 0.14036 on kaggle leaderboard
 ### Results
 
-Got an RMSE score of 0.14036 on kaggle leaderboard
+#### We got a slight improvement with hyperparameter tuning (from 0.14065 to 0.14036). Needs more tuning!
