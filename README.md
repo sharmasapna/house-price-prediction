@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=htXcQPsaGWw&list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdk
 1. Loading data  
 2. Data Exploration  
     2.1 Features with Null value  
-    2.2 Numerical Features
+    2.2 Numerical Features 
        2.2.1  Year Features  
             2.2.3 Discrete Features    
             2.2.4 Continous Features    
