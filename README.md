@@ -16,9 +16,9 @@ https://www.youtube.com/watch?v=htXcQPsaGWw&list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdk
 2. Data Exploration  
     2.1 Features with Null value  
     2.2 Numerical Features  
-        2.2.1  Year Features  
-        2.2.3 Discrete Features    
-        2.2.4 Continous Features    
+            2.2.1  Year Features  
+            2.2.3 Discrete Features    
+            2.2.4 Continous Features    
     2.3 Categorical Features
 3. Data Cleaning
 4. Data transformation
