@@ -22,8 +22,9 @@ https://www.youtube.com/watch?v=htXcQPsaGWw&list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdk
         2.2.3 Continous Features 
         
     2.3 Categorical Features
-3. Data Cleaning
-4. Data transformation
+3. Data Cleaning  
+4. Data transformation  
+   4.1 Rare Categorical Feature Handling  
 5. Base Model Performance (XGBoost)
 6. Hyperparameter Tuning
 7. Final Model
