@@ -207,7 +207,7 @@ y_predict1 = regressor.predict(df_Test)
 ```
 
 ```ruby
-##Create Sample Submission file and Submit using ANN
+##Create Sample Submission file and Submission
 pred=pd.DataFrame(y_predict1)
 sub_df=pd.read_csv('sample_submission.csv')
 datasets=pd.concat([sub_df['Id'],pred],axis=1)
