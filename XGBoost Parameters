@@ -1,7 +1,5 @@
 1. The XGBoost Advantage
-I’ve always admired the boosting capabilities that this algorithm infuses in a predictive model. When I explored more about its performance and science behind its high accuracy, I discovered many advantages:
-
-Regularization:
+**Regularization:**
 Standard GBM implementation has no regularization like XGBoost, therefore it also helps to reduce overfitting.
 In fact, XGBoost is also known as a ‘regularized boosting‘ technique.
 Parallel Processing:
