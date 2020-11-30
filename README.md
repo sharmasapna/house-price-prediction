@@ -218,3 +218,10 @@ datasets.to_csv('housepricetuned.csv',index=False)
 ### Results
 
 #### We got a slight improvement with hyperparameter tuning (from 0.14065 to 0.14036). Needs more tuning!
+
+For further reading pl see this article.   
+
+https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+
+
+
