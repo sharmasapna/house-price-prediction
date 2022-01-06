@@ -1,4 +1,4 @@
-# house_price_prediction
+# House Price Prediction
 The Ames Housing [dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) is taken from kaggle competition.
 
 The aim of the project is to predict house price for houses in Boston Housing Dataset.
