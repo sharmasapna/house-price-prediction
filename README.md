@@ -1,12 +1,12 @@
 # house_price_prediction
-The Ames Housing dataset is taken from kaggle competition.
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+The Ames Housing [dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) is taken from kaggle competition.
+
 The aim of the project is to predict house price for houses in Boston Housing Dataset.
 Two files, train and test are provided and the price of the test data is to be estimated.
 Here I have used XGBoost for prediction.
-Thanks to Krish Naik for making these amazing videos for understanding and implementing House Price Prediction.
-https://www.youtube.com/watch?v=vtm35gVP8JU
-https://www.youtube.com/watch?v=htXcQPsaGWw&list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdkLWy&index=2
+Thanks to Krish Naik for making [these](https://www.youtube.com/watch?v=vtm35gVP8JU) amazing [videos](https://www.youtube.com/watch?v=htXcQPsaGWw&list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdkLWy&index=2) for understanding and implementing House Price Prediction.
+
+
 
  I will be adding exploratory data analysis and compare the XGBoost model's result with other regression techniques later.
  
